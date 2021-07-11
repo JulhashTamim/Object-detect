@@ -6,7 +6,6 @@
 using namespace cv;
 using namespace std;
 
-
 /////////////////  Images  //////////////////////
 
 int main() {
