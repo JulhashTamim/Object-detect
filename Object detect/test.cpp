@@ -9,7 +9,6 @@ using namespace std;
 /////////////////  Images  //////////////////////
 
 int main() {
-
     string path = "Resources/test.jpg";
     Mat img = imread(path);
     imshow("Image", img);
